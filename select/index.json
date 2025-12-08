@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "サムライハート",
+  "base_artist": "森口博子",
+  "createdAt": "2025-12-08T11:19:58.062936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サムライハート(Some Like It Hot!!)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/01_サムライハート(Some_Like_It_Hot!!)_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サムライハート (Some Like It Hot!!)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/02_サムライハート_(Some_Like_It_Hot!!)_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サムライハート (Some Like It Hot!!)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/03_サムライハート_(Some_Like_It_Hot!!)_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サムライハート (Some Like It Hot!!)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/04_サムライハート_(Some_Like_It_Hot!!)_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サムライハート(Some Like It Hot!!)",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/05_サムライハート(Some_Like_It_Hot!!)_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サムライハート(Some Like It Hot!!)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/06_サムライハート(Some_Like_It_Hot!!)_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サムライハート (Some Like It Hot!!)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/07_サムライハート_(Some_Like_It_Hot!!)_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サムライハート (Some Like It Hot!!)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/08_サムライハート_(Some_Like_It_Hot!!)_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サムライハート（Some Like It Hot！！）",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/09_サムライハート(Some_Like_It_Hot!!)_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サムライハート (Some Like It Hot!!)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/10_サムライハート_(Some_Like_It_Hot!!)_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "サムライハート(Some Like It Hot ! ! ) feat.未来",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/11_サムライハート(Some_Like_It_Hot_!_!_)_feat.未来_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "サムライハート(Some Like It Hot!!)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/12_サムライハート(Some_Like_It_Hot!!)_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "サムライハート",
+      "artist": "森口博子",
+      "has_synced": true,
+      "path": "select/13_サムライハート_森口博子.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "サムライハート",
+      "artist": "Moriguchi, Hiroko",
+      "has_synced": true,
+      "path": "select/14_サムライハート_Moriguchi,_Hiroko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サムライハート",
+      "artist": "森口 博子",
+      "has_synced": false,
+      "path": "select/pl_01_サムライハート_森口_博子.txt"
+    }
+  ]
+}
